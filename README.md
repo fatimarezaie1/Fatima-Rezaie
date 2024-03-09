@@ -10,7 +10,7 @@
   🎓 Student of Computer Science .<br>
   🏆 Certified Full-stack Developer.<br>
   💯 Dreamer , Believer & Explorer <br>
-⚙️ My stack: HTML/CSS |Bootstap | JavaScript | React | Laravel | MYSQL| Php <br>
+⚙️ My stack: HTML | CSS |Bootstap | JavaScript | React | Laravel | MYSQL| Php <br>
 
 
 ## 🌐 Socials:
