@@ -4,15 +4,13 @@
 
    <h2>👩‍💻 Seeking a New Opportunity</h2>
    
-<p> I'm a highly motivated software developer with a passion for building impactful applications. And now I'm enrolled in
- <a href="https://www.microverse.org/"> Microverse </a> is a top-tier remote software development school that emphasizes real-world projects and pair programming. <p>
-    
+<p> I'm a highly motivated software developer with a passion for building impactful applications. And now I'm enrolled in </p>
 </div>
 
-  🎓 Bachelor's degree in Computer Science.<br>
+  🎓 Student of Computer Science .<br>
   🏆 Certified Full-stack Developer.<br>
-  💯 Dream, Believe & Achieve<br>
-⚙️ My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL |PostgreSQL| RSpec |<br>
+  💯 Dreamer , Believer & Explorer <br>
+⚙️ My stack: HTML/CSS |Bootstap | JavaScript | React | Laravel | MYSQL| Php <br>
 
 
 ## 🌐 Socials:
