@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./background.jpg" width = "100%" height='350px' >
+<img src="./background.jpg" width = "100%" height='370px' >
 
    <h2>👩‍💻 Seeking a New Opportunity</h2>
    
